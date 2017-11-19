@@ -1,3 +1,9 @@
+# project specific
+.env
+
+# Editor and IDE
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
